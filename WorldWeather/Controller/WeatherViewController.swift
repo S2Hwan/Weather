@@ -26,7 +26,6 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Search
     @IBOutlet weak var searchButton: UIButton!
     @IBOutlet weak var weatherBgImage: UIImageView!
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -47,7 +46,8 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Search
             response in
             if response.result.isSuccess {
                 
-                print("Success! Got the weather data")
+                print("날씨데이터 가져오기 성공")
+                
                 let weatherJSON : JSON = JSON(response.result.value!)
                 
                 print(weatherJSON)
@@ -56,10 +56,11 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Search
             }
             else {
                 print("Error \(String(describing: response.result.error))")
-                self.cityLabel.text = "Connection Issues"
+                self.cityLabel.text = "Fail"
             }
         }
     }
+    
     //MARK: - JSON 파싱
     /***************************************************************/
     // 날씨정보 업데이트

@@ -12,6 +12,8 @@
 		540E1CB520B5935700A03413 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 540E1CB320B5935700A03413 /* Main.storyboard */; };
 		540E1CB720B5935800A03413 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 540E1CB620B5935800A03413 /* Assets.xcassets */; };
 		540E1CBA20B5935800A03413 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 540E1CB820B5935800A03413 /* LaunchScreen.storyboard */; };
+		54A2B71020B594CA0008D545 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A2B70F20B594CA0008D545 /* WeatherViewController.swift */; };
+		54A2B71220B594E20008D545 /* SearchCityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A2B71120B594E20008D545 /* SearchCityViewController.swift */; };
 		8CB53932B14EBFBA09C99748 /* Pods_WorldWeather.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F0B6051583E6CEEECE9B1C1 /* Pods_WorldWeather.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +28,8 @@
 		540E1CB620B5935800A03413 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		540E1CB920B5935800A03413 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		540E1CBB20B5935800A03413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54A2B70F20B594CA0008D545 /* WeatherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
+		54A2B71120B594E20008D545 /* SearchCityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchCityViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				540E1CB620B5935800A03413 /* Assets.xcassets */,
 				540E1CB820B5935800A03413 /* LaunchScreen.storyboard */,
 				540E1CBB20B5935800A03413 /* Info.plist */,
+				54A2B70F20B594CA0008D545 /* WeatherViewController.swift */,
+				54A2B71120B594E20008D545 /* SearchCityViewController.swift */,
 			);
 			path = WorldWeather;
 			sourceTree = "<group>";
@@ -221,7 +227,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				540E1CB220B5935700A03413 /* ViewController.swift in Sources */,
+				54A2B71020B594CA0008D545 /* WeatherViewController.swift in Sources */,
 				540E1CB020B5935700A03413 /* AppDelegate.swift in Sources */,
+				54A2B71220B594E20008D545 /* SearchCityViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,7 +377,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5W9SHGAJVE;
 				INFOPLIST_FILE = WorldWeather/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ssh.WorldWeather;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -385,7 +396,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5W9SHGAJVE;
 				INFOPLIST_FILE = WorldWeather/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.ssh.WorldWeather;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;

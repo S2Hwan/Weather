@@ -8,20 +8,13 @@
 
 import UIKit
 
+// 프로토콜 설정
+protocol SearchCityDelegate {
+    func searchNewCity(city: String)
+}
+
 class SearchCityViewController: UIViewController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-       
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        
-    }
     
-
-   
-
+    override func viewDidLoad() {
+       
 }

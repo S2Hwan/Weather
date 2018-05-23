@@ -72,7 +72,7 @@
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
-                                            <segue destination="jLT-IL-0Nn" kind="presentation" identifier="search" id="VRl-kG-lrg"/>
+                                            <segue destination="jLT-IL-0Nn" kind="presentation" identifier="goToSearchVC" id="VRl-kG-lrg"/>
                                         </connections>
                                     </button>
                                 </subviews>
@@ -106,11 +106,9 @@
                     <connections>
                         <outlet property="cityLabel" destination="Y3L-9w-uhy" id="E7G-Et-Jow"/>
                         <outlet property="searchButton" destination="hki-Ka-2Vp" id="Fzj-h3-Oue"/>
-                        <outlet property="searchbutton" destination="hki-Ka-2Vp" id="Fbh-vm-d14"/>
                         <outlet property="tempLabel" destination="fjS-IP-Bat" id="KP1-Mg-Y7S"/>
-                        <outlet property="weatherBgImage" destination="jWy-Op-MT9" id="YZR-sf-0YZ"/>
+                        <outlet property="weatherBgImage" destination="jWy-Op-MT9" id="vg3-09-ich"/>
                         <outlet property="weatherImage" destination="heH-0y-WjP" id="RXa-zR-qLw"/>
-                        <outlet property="wetherBgImage" destination="jWy-Op-MT9" id="O6W-Qt-Xkx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

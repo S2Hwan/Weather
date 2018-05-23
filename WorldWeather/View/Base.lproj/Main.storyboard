@@ -13,7 +13,7 @@
         <!--Weather View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" userLabel="Weather View Controller" customClass="WeatherViewController" customModule="Weather" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" userLabel="Weather View Controller" customClass="WeatherViewController" customModule="WorldWeather" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -104,11 +104,13 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="cityLabel" destination="Y3L-9w-uhy" id="48n-ci-d81"/>
+                        <outlet property="cityLabel" destination="Y3L-9w-uhy" id="E7G-Et-Jow"/>
+                        <outlet property="searchButton" destination="hki-Ka-2Vp" id="Fzj-h3-Oue"/>
                         <outlet property="searchbutton" destination="hki-Ka-2Vp" id="Fbh-vm-d14"/>
-                        <outlet property="tempLabel" destination="fjS-IP-Bat" id="bOL-Nw-IdW"/>
+                        <outlet property="tempLabel" destination="fjS-IP-Bat" id="KP1-Mg-Y7S"/>
                         <outlet property="weatherBgImage" destination="jWy-Op-MT9" id="YZR-sf-0YZ"/>
-                        <outlet property="weatherImage" destination="heH-0y-WjP" id="sPj-l2-9eH"/>
+                        <outlet property="weatherImage" destination="heH-0y-WjP" id="RXa-zR-qLw"/>
+                        <outlet property="wetherBgImage" destination="jWy-Op-MT9" id="O6W-Qt-Xkx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -118,7 +120,7 @@
         <!--Search City View Controller-->
         <scene sceneID="2a3-ZK-g7e">
             <objects>
-                <viewController id="jLT-IL-0Nn" userLabel="Search City View Controller" customClass="SearchCityViewController" customModule="Weather" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="jLT-IL-0Nn" userLabel="Search City View Controller" customClass="SearchCityViewController" customModule="WorldWeather" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Fh8-wT-5LJ">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

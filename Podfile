@@ -8,6 +8,6 @@ target 'WorldWeather' do
 
 pod 'SwiftyJSON'
 pod 'Alamofire'
-pod 'SVProgressHUD'
+
 
 end

@@ -1,7 +1,8 @@
 [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
-[![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
+[![Version](https://img.shields.io/badge/Version-swift%204.0-orange.svg)](https://developer.apple.com/kr/swift/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%209.0%2B-lightgrey.svg)](https://support.apple.com/ko_KR/downloads/ios)
- 
+[![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
+
 # Weather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
 

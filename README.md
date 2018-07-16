@@ -1,6 +1,6 @@
 
  [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
- [(https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
+ [![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
  
 # Weather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 

@@ -1,6 +1,6 @@
 [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
 [![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
-[![Platform]https://img.shields.io/badge/Platform-iOS%209.0%2B-lightgrey.svg](https://support.apple.com/ko_KR/downloads/ios)
+[![Platform](https://img.shields.io/badge/Platform-iOS%209.0%2B-lightgrey.svg)](https://support.apple.com/ko_KR/downloads/ios)
  
 # Weather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
@@ -22,5 +22,5 @@
 - `Alamofire` : https://github.com/Alamofire/Alamofire
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-lightgrey.svg)](sclooney0410@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-black.svg)](sclooney0410@gmail.com)
 

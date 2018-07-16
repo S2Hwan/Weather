@@ -22,5 +22,5 @@
 - `Alamofire` : https://github.com/Alamofire/Alamofire
 
 ## Contact
-[![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-black.svg)](sclooney0410@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-000000.svg)](sclooney0410@gmail.com)
 

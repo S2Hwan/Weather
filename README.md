@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-iOS%209.0%2B-lightgrey.svg)](https://support.apple.com/ko_KR/downloads/ios)
 [![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
 
-# Weather
+# WorldWeather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
 
 ## About

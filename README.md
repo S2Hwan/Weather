@@ -1,6 +1,6 @@
 [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
 [![Version](https://img.shields.io/badge/Version-Swift%204.0-orange.svg)](https://developer.apple.com/kr/swift/)
-[![Platform](https://img.shields.io/badge/Platform- iOS%209.0%2B-lightgrey.svg)](https://support.apple.com/ko_KR/downloads/ios)
+[![Platform](https://img.shields.io/badge/Platform-iOS%209.0%2B-lightgrey.svg)](https://support.apple.com/ko_KR/downloads/ios)
 [![GitHub](https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
 
 # WorldWeather

@@ -1,7 +1,8 @@
 
  [![Swift](https://img.shields.io/badge/Swift-compatible-E77335.svg)](https://swift.org)
+ [(https://img.shields.io/badge/Github-S2Hwan-red.svg)](https://github.com/S2Hwan/Weather/)
  
-## Weather
+# Weather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
 
 ## about
@@ -21,4 +22,5 @@
 - `Alamofire` : https://github.com/Alamofire/Alamofire
 
 ## Contact
-![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-lightgrey.svg)
+[![Gmail](https://img.shields.io/badge/gmail-sclooney0410%40gmail.com-lightgrey.svg)]
+

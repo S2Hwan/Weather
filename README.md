@@ -18,4 +18,9 @@ https://www.pinterest.co.kr/pin/361625045052168903/
 
 # about
 
-asdf
+# open API
+- https://openweathermap.org/current
+
+# open Source
+
+# Contact

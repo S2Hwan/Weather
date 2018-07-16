@@ -22,5 +22,7 @@ https://www.pinterest.co.kr/pin/361625045052168903/
 - https://openweathermap.org/current
 
 # open Source
+- 'SwiftyJSON' : https://github.com/SwiftyJSON/SwiftyJSON
+- 'Alamofire' : https://github.com/Alamofire/Alamofire
 
 # Contact

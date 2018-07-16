@@ -16,8 +16,9 @@
  - https://www.pinterest.co.kr/pin/361625045052168903/
 
 ## Features
- - [x] 영화 상영 정보, 페이지컨트롤로 구현.
- - [x]
+ - [x] 수정중
+ - [x] 수정중
+ - [x] 수정중
 
 ## Open API
  - https://openweathermap.org/current

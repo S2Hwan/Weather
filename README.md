@@ -7,7 +7,7 @@
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
 
 ## About
-이미지 출처
+- [x] 이미지 출처
  - https://www.city.kr/background/1275706
  - https://m.blog.naver.com/PostView.nhnblogId=dbrtjdwowkd&logNo=220714524982&categoryNo=0&proxyReferer=https%3A%2F%2Fwww.google.com%2F
  - https://m.blog.naver.com/PostView.nhn?blogId=pjm2947&logNo=220558603639&proxyReferer=https%3A%2F%2Fwww.google.com%2F

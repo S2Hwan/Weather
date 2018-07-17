@@ -16,9 +16,9 @@
  - https://www.pinterest.co.kr/pin/361625045052168903/
 
 ## Features
- - [x] 수정중
- - [x] 수정중
- - [x] 수정중
+ - [x] 날씨별로 화면배경 및 날씨 아이콘 변경
+ - [x] 검색기능으로 원하는 도시 날씨 정보 확인
+ - [x] 첫 실행시 위치서비스권한 확인
 
 ## Open API
  - https://openweathermap.org/current

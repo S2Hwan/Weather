@@ -21,7 +21,8 @@
  - [x] 첫 실행시 위치서비스권한 확인
 
 ## Open API
- - https://openweathermap.org/current
+ - [x] `openweathermap` 
+       https://openweathermap.org/current
 
 ## Open Source
  - `swiftyJSON` : https://github.com/SwiftyJSON/SwiftyJSON

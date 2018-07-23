@@ -6,6 +6,8 @@
 # WorldWeather
 세계 각국의 도시 날씨 정보를 실시간으로 제공하는 iOS Application 
 
+![123123](https://user-images.githubusercontent.com/37620874/43076576-295a817c-8e74-11e8-8d52-143e6eabebdf.gif)
+
 ## About
 - [x] 이미지 출처
  - https://www.city.kr/background/1275706
